@@ -32,7 +32,7 @@ const SortArrow = ({ direction }) => {
   } else {
     return (
       <div className={styles.heading_arrow}>
-        <KeyboardArrowUpRounded color="inherit" />
+        <KeyboardArrowUpRounded colb or="inherit" />
       </div>
     );
   }
